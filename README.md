@@ -1,6 +1,6 @@
 ## Hey There 👋 
 
-#### I am Vinay, a final year computer science student at PES University. I am mostly interested in Deep Learning and Computer Vision. 
+#### I am Vinay, a CS grad student at the University of Illinois, Urbana Champaign. 
 
 #### 👨‍💻 Languages
 <a href=""><img alt="" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /></a>
